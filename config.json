@@ -1,0 +1,9 @@
+{
+    "username": "",
+    "password": "",
+    "download_folder": "",
+    "wait_timeout": 3,
+    "headless": false,
+    "only_unread": true,
+    "max_documents": 5
+}
