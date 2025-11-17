@@ -35,7 +35,7 @@ jobs:
         copy README.md deploy\README.txt
 
     - name: Upload artifact
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: DoccleDownloader-Windows
         path: deploy/
